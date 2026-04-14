@@ -72,6 +72,8 @@ Time(ms),Temp,CTS,Motion,Door
 ![Setup](images/setup.jpg)
 ![OLED](images/oled.jpg)
 ![Dashboard](images/dashboard.jpg)
+![CSV](images/csv.jpg)
+![Prototype](prototype/csv.jpg)
 
 ## 📜 License
 

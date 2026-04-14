@@ -69,11 +69,11 @@ Time(ms),Temp,CTS,Motion,Door
 
 ## 📸 Project Images
 
-![Setup](images/setup.jpg)
-![OLED](images/oled.jpg)
-![Dashboard](images/dashboard.jpg)
-![CSV](images/csv.jpg)
-![Prototype](prototype/csv.jpg)
+![Setup](images/setup.png)
+![OLED](images/OLED.png)
+![Dashboard](images/dashboard.png)
+![CSV](images/csv.png)
+![Prototype](images/prototype.png)
 
 ## 📜 License
 

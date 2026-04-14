@@ -42,3 +42,37 @@ CTS (Cold Chain Trust Score) is a value from 0–100 that represents the integri
 ## 📊 System Architecture
 
 Sensors → Processing → CTS → Output → Logging → Dashboard
+
+
+---
+
+## 🌐 Web Features
+
+- Real-time dashboard  
+- Graphs  
+- CSV download  
+
+---
+
+## 📁 Data Logging
+
+Data stored as:
+
+log.csv
+
+Format:
+
+Time(ms),Temp,CTS,Motion,Door
+
+
+---
+
+## 📸 Project Images
+
+![Setup](images/setup.jpg)
+![OLED](images/oled.jpg)
+![Dashboard](images/dashboard.jpg)
+
+## 📜 License
+
+MIT License
